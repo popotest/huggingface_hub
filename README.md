@@ -188,7 +188,7 @@ upload_folder(
 
 More details in the [upload guide](https://huggingface.co/docs/huggingface_hub/en/guides/upload).
 
-## Integrating with the Hub.
+## Integrating with the Hub
 
 We're partnering with cool open source ML libraries to provide free model hosting and versioning. You can find the existing integrations [here](https://huggingface.co/docs/hub/libraries).
 
